@@ -27,4 +27,4 @@ A hotel booking and management system built using the MERN stack.
 
 ## Setup
 
-Setup and execution instructions will be added as development progresses.
+Installation and execution instructions will be added as development progresses.
