@@ -1,5 +1,5 @@
 
-const User = require("../models/User");
+const User = require("../models/user");
 
 // Admin-only: retrieve registered users without password hashes
 exports.getAllUsers = async (req, res) => {
