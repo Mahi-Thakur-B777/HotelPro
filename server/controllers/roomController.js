@@ -1,5 +1,5 @@
 
-const Room = require("../models/Room");
+const Room = require("../models/room");
 
 // Get all active rooms
 exports.getRooms = async (req, res) => {

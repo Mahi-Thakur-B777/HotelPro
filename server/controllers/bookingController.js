@@ -1,6 +1,6 @@
 
 const Booking = require("../models/Booking");
-const Room = require("../models/Room");
+const Room = require("../models/room");
 
 // Create a booking for the logged-in customer
 exports.createBooking = async (req, res) => {
