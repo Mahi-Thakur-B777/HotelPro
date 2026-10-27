@@ -1,5 +1,5 @@
 
-const Booking = require("../models/Booking");
+const Booking = require("../models/booking");
 const Room = require("../models/room");
 
 // Create a booking for the logged-in customer
